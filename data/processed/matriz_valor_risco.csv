@@ -1,0 +1,4 @@
+Perfil_Risco,LTV Médio,Prêmio Médio,Taxa de Churn,Valor,Risco,Segmento
+up,1108.4833026467204,633.6807940161104,0.9021864211737629,Alto Valor,Alto Risco,Manter com Urgência
+stable,896.0832519109339,286.8762205051512,0.8977234961781323,Alto Valor,Alto Risco,Manter com Urgência
+down,678.8393874938455,455.3209079271295,0.8387001477104874,Baixo Valor,Baixo Risco,Potencial de Crescimento

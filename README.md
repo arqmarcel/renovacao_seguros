@@ -15,3 +15,21 @@ Com base nessas informações, pede-se:
  
 
  2) Quais os possíveis planos de ação que a empresa de seguros pode fazer para diminuir esse problema?
+
+
+ANÁLISE FINAL DOS DADOS:
+
+## 📊 Matriz Valor vs Risco de Cancelamento
+
+Esta matriz cruza o LTV médio (Lifetime Value) e a taxa de churn (cancelamento) dos perfis de risco, permitindo classificar os clientes em quatro segmentos estratégicos:
+
+| Segmento                | Estratégia                                 |
+|------------------------|--------------------------------------------|
+|   Proteger            | Fidelizar clientes valiosos e estáveis     |
+|   Manter com Urgência | Reter urgentemente clientes valiosos com alto risco de saída |
+|   Potencial de Crescimento | Investir em desenvolvimento de relacionamento   |
+|   Reavaliar           | Clientes de baixo valor e alto churn – avaliar prioridade |
+
+O arquivo [`matriz_valor_risco.csv`](./matriz_valor_risco.csv) contém o resumo estatístico por perfil.
+
+O gráfico correspondente está no notebook de análise exploratória.
